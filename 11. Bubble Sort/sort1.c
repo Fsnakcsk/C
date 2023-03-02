@@ -7,7 +7,7 @@
 #define MAX	(100)
 
 void sort(int v[],int n)
-{
+{    
 	int i,j;
 	int tmp;
 
