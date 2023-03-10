@@ -3,7 +3,7 @@
 
 typedef struct point {
 	int x;
-	int y;
+	int y; 
 } Point, * PointPtr;
 
 void findCenterPoint(Point *p, Point *q, Point *r) {
