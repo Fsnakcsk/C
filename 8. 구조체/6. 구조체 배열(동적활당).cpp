@@ -4,7 +4,7 @@
 typedef struct point {
 	int x;
 	int y;  
-} Point, * PointPtr;
+} Point, * PointPtr; 
 
 void findCenterPoint(Point *p, Point *q, Point *r) {
 	p->x = (q->x + r->x) / 2; // 15
