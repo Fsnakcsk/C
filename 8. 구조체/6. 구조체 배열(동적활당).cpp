@@ -8,7 +8,7 @@ typedef struct point {
 
 void findCenterPoint(Point *p, Point *q, Point *r) {
 	p->x = (q->x + r->x) / 2; // 15
-	p->y = (q->y + r->y) / 2; // 20 
+	p->y = (q->y + r->y) / 2; // 20  
 } 
 
 void printPoint(char *name, PointPtr p) {
