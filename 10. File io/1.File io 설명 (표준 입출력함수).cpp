@@ -11,7 +11,7 @@ main()
 		fscanf(stdin,"%d %d %d",&kor,&eng,&math);
 		total = kor + eng + math;
 	//	printf("sum = %d\n",total);
-		fprintf(stdout,"sum = %d\n",total);
+		fprintf(stdout,"sum = %d\n",total); 
 	}
 	
 	/*	stdin과 stdout는 file point라고 한다.
