@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <malloc.h>
-  
+   
 typedef struct point {
 	int x;
 	int y;
