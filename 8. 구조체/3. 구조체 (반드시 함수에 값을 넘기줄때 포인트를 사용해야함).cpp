@@ -7,7 +7,7 @@ struct point {
 
 void findCenterPoint(struct point *p, struct point *q, struct point *r) {
 	p->x = (q->x + r->x) / 2; // 15
-	p->y = (q->y + r->y) / 2; // 20
+	p->y = (q->y + r->y) / 2; // 20 
 } 
 
 void printPoint(char *name, struct point p) {
