@@ -6,7 +6,7 @@ main()
 	int kor, eng, math;
 	int i; 
 	
-	for (i=0; i<10; i++) {
+	for (i=0; i<10; i++) { 
 	//	scanf("%d %d %d",&kor,&eng,&math);
 		fscanf(stdin,"%d %d %d",&kor,&eng,&math);
 		total = kor + eng + math;
