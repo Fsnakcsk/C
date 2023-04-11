@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 main()
-{
+{ 
 	int total;
 	int kor, eng, math; 
 	int i; 
