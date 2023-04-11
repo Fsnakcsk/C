@@ -3,7 +3,7 @@
 main()
 {
 	int total;
-	int kor, eng, math;
+	int kor, eng, math; 
 	int i; 
 	
 	for (i=0; i<10; i++) { 
