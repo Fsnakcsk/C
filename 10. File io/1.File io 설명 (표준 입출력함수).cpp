@@ -2,7 +2,7 @@
 
 main()
 { 
-	int total;
+	int total; 
 	int kor, eng, math;  
 	int i;   
 	
