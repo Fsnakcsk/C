@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <malloc.h>
-
+ 
 #define LINES	(100)
 #define MAXLEN	1000
 
