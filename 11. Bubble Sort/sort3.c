@@ -9,7 +9,7 @@
 #include <malloc.h>
  
 #define LINES	(100) 
-#define MAXLEN	1000
+#define MAXLEN	1000 
 
 int getline(char s[],int limit)
 {
