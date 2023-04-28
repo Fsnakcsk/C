@@ -22,5 +22,5 @@ main()
 			printf("*");
 		}
 		printf("\n");
-	}
+	} 
 }
