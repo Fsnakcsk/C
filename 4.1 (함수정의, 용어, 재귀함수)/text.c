@@ -11,7 +11,7 @@ int getSum(int n)
 	if  (n < 0) {
 		printf("Please use a positive number\n");
 		exit(-1);
-	}
+	} 
 	
 	total = 0;
 	for(i=1; i<=n; i++){
