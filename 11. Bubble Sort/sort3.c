@@ -13,7 +13,7 @@
 
 int getline(char s[],int limit)
 {
-	int c,i;
+	int c,i; 
 	
 	i = 0;
 	while(--limit > 0 && (c=getchar()) != EOF && c != '\n')
