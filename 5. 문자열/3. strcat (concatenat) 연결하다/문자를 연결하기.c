@@ -3,7 +3,7 @@
 main()
 {
 	char *p = "Taegyun";
-	char q[30];
+	char q[30]; 
 	
 	//strcat 또는 strcpy 주의해야 할 점은
 	// 기억장소 넉넉하게 잡아줘야 한다 
