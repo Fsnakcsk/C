@@ -22,7 +22,7 @@ int** mallocArray(int m,int n) {
 	for (i=0; i<3; i++) {
 		p[i] = (int*)malloc(n*sizeof(int));
 	}
-	
+	 
 	return p;
 	
 }
