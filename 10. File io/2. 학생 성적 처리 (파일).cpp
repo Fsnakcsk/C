@@ -9,7 +9,7 @@ main()
 	FILE *inFile;
 	FILE *outFile;
 	
-	inFile = fopen("input.txt","r");
+	inFile = fopen("input.txt","r"); 
 	outFile = fopen("output.txt","w");
 	
 	fscanf(inFile,"%d",&n);
