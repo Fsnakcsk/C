@@ -14,7 +14,7 @@ void findCenterPoint(Point *p, Point *q, Point *r) {
 void printPoint(char *name, PointPtr p) {
 	printf("%s = (%d,%d)\n",name,p->x,p->y);
 }
-main()
+main() 
 {
 	Point pt[3];
 	
