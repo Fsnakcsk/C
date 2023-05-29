@@ -1,6 +1,6 @@
 /* sort3.c */
 /* 강의 주제 :
-	sorting (문자 열 데이터)
+	sorting (문자 열 데이터) 
 	end of file 이용 
 */
 
