@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 struct point {
-	int x;
+	int x; 
 	int y;
 };
 
@@ -10,7 +10,7 @@ void findCenterPoint(struct point *p, struct point q, struct point r) {
 	p->y = (q.y + r.y) / 2; // 20
 }
 
-void printPoint(char *name, struct point p) {
+void printPoint(char *name, struct point p) { 
 	printf("%s = (%d,%d)\n",name,p.x,p.y);
 }
 
