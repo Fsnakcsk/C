@@ -12,7 +12,7 @@ void findCenterPoint(struct point *p, struct point q, struct point r) {
    
 void printPoint(char *name, struct point p) { 
 	printf("%s = (%d,%d)\n",name,p.x,p.y);
-}
+} 
  
 main()
 {
