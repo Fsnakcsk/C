@@ -13,6 +13,6 @@ main()
 			s = s + x;
 		}
 		printf("sum = %d\n",s);
-	}
+	} 
 	
 }
