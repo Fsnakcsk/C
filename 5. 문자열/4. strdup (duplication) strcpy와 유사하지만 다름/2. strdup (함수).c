@@ -20,7 +20,7 @@ main()
 {
 	char *x;
 
-	x = my_strdup("Hello, my name is kim.");
+	x = my_strdup("Hello, my name is kim."); 
 	x[5] = '!';       //문자를 바꿀 수 있다. 
 	printf("%s\n",x);
 	
