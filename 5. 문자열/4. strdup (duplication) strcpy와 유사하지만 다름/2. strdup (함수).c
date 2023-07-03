@@ -5,7 +5,7 @@
 // strdup는 char 포이트로 선언 해야함  
 char *my_strdup(char *s) {
 	
-	char *p;
+	char *p; 
 	
 	p = (char*)malloc(strlen(s)+1);
 	// malloc 함수를 사용할 때 앞에 반드시 (char*)malloc 해야함
