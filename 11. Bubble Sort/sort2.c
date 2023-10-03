@@ -3,7 +3,7 @@
 	sorting (character 단위 입력)
 	end of file 이용
 */
- 
+
 #include <stdio.h>
 #include <stdlib.h>
 #define LINES	(100)
