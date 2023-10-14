@@ -8,7 +8,7 @@
 #include <stdlib.h>
 #define LINES	(100)
 #define MAXINT	(10)	
-
+ 
 int getline(char s[],int limit)
 {
 	int c,i;
