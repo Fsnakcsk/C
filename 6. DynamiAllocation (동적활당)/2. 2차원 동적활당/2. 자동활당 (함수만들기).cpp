@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <malloc.h>
+#include <malloc.h> 
 
 int getSum(int** x, int row, int col) {
 	
