@@ -1,4 +1,4 @@
-#include <stdio.h> 
+#include <stdio.h>  
 
 void sort(int v[],int n) {
 	int i,j;
