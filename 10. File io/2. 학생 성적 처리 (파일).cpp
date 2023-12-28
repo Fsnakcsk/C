@@ -4,7 +4,7 @@
 main()
 {
 	int total[MAX];
-	int kor[MAX], eng[MAX], math[MAX];
+	int kor[MAX], eng[MAX], math[MAX]; 
 	int i,n;
 	FILE *inFile;
 	FILE *outFile;
