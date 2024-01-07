@@ -5,7 +5,7 @@ struct point {
 	int y;
 };
 
-void findCenterPoint(struct point *p, struct point q, struct point r) {
+void findCenterPoint(struct point *p, struct point q, struct point r) { 
 	p->x = (q.x + r.x) / 2; // 15
 	p->y = (q.y + r.y) / 2; // 20
 }
