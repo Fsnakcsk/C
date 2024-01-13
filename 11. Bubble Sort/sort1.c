@@ -1,6 +1,6 @@
 /* sort1.c */
 /* 강의 주제 :
-	sorting (bubble sort)   
+	sorting (bubble sort)  
 */
 
 #include <stdio.h>
