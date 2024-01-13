@@ -1,5 +1,5 @@
 /* sort1.c */
-/* 
+/*  
 	sorting (bubble sort) 
 */
 
